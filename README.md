@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mipawa
-- 👀 I’m interested in mobile Apps development
-- 🌱 I’m currently learning kivy
-- 💞️ I’m looking to collaborate on kivy projects
+- 👀 I’m  a  Web and Mobile Apps Developer
+- 🌱 My tech stack is Flask and Kivy/Kivymd
+- 💞️ I’m building CampusPawa app, an Edtech App for higher learning education in Tanzania
 - 📫 How to reach me use email samikepawa97@gmail.com
 
 <!---
